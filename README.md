@@ -21,12 +21,13 @@ python train.py dataset=cifar10 model=densenet121
 (在跑的时候第4个epoch写入的时候发生的点异常，所以是手动写的终端里面的输出结果，所以保留位数不太统一)
 
 各曲线如下：
+
 <img src="./docs/train_curve.png" width="80%" title="train_curve" />
 <img src="./docs/train_step_curve.png" width="50%" title="train_step_curve" />
 <img src="./docs/eval_curve.png" width="80%" title="eval_curve" />
 
 ## Example
-<img src="./docs/example_dog.png" width="200%" title="example" />
+<img src="./docs/example_dog.png" width="50%" title="example" />
 <img src="./docs/example_result.png" width="50%" title="example_result" />
 
 
