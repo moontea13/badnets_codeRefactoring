@@ -29,7 +29,6 @@ python train.py dataset=cifar10 model=densenet121
 | 5 | 0.33 | 88.64% | 78.42% | 97.51% |
 
 训练train的loss和acc, val的clean_acc和asr(poison_acc)原始值高精度结果见`metrics_raw.csv`
-(在跑的时候第4个epoch写入的时候发生的点异常，所以是手动写的终端里面的输出结果，所以保留位数不太统一)
 
 各曲线如下：
 
