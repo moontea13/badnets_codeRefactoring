@@ -1,5 +1,5 @@
 __pycache__/
-data/
+/data/
 .vscode/
 checkpoints/best_model.pth
 checkpoints/last_model.pth
