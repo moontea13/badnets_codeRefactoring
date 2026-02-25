@@ -14,10 +14,21 @@ python train.py dataset=cifar10 model=densenet121
 ```
 或者更改`config.yaml`文件
 ## Result
-投毒预览情况：
-
 默认配置运行 5 epoch, 最终最佳结果为
-训练train的loss和acc, val的clean_acc和asr(poison_acc)原始值见`metrics_raw.csv`
+
+"best_clean_acc": 78.42,
+"best_asr": 97.51111111111112,
+"best_epoch": 5
+
+| Epoch | Train Loss | Train Acc | Clean Acc | ASR |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | 1.23 | 54.80% | 56.26% | 98.23% |
+| 2 | 0.72 | 74.56% | 65.11% | 97.28% |
+| 3 | 0.54 | 81.17% | 73.61% | 96.48% |
+| 4 | 0.42 | 85.48% | 72.14% | 95.41% |
+| 5 | 0.33 | 88.64% | 78.42% | 97.51% |
+
+训练train的loss和acc, val的clean_acc和asr(poison_acc)原始值高精度结果见`metrics_raw.csv`
 (在跑的时候第4个epoch写入的时候发生的点异常，所以是手动写的终端里面的输出结果，所以保留位数不太统一)
 
 各曲线如下：
