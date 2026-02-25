@@ -1,0 +1,2 @@
+_target_: src.classifier_models.PreActResNet18
+num_classes: ${dataset.num_classes}

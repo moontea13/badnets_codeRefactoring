@@ -1,0 +1,7 @@
+name: cifar10
+width: 32
+height: 32
+channels: 3
+mean: [0.4914, 0.4822, 0.4465]
+std: [0.247, 0.243, 0.261]
+num_classes: 10

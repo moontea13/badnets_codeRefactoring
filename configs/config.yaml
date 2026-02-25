@@ -1,0 +1,16 @@
+defaults:
+  - dataset: cifar10
+  - attack: badnets
+  - model: preactresnet18
+  - _self_             
+
+seed: 42
+checkpoints_dir: "./checkpoints"
+
+epochs: 5
+batch_size: 128
+lr: 0.01
+momentum: 0.9
+weight_decay: 0.0005
+scheduler_milestones: [100, 200, 300, 400]
+scheduler_lambda: 0.1

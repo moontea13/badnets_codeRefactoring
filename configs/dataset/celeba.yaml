@@ -1,0 +1,7 @@
+name: celeba
+width: 64
+height: 64
+channels: 3
+mean: [0.0, 0.0, 0.0]
+std: [1.0, 1.0, 1.0]
+num_classes: 8

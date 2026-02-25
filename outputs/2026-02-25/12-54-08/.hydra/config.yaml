@@ -1,0 +1,34 @@
+dataset:
+  name: cifar10
+  width: 32
+  height: 32
+  channels: 3
+  mean:
+  - 0.4914
+  - 0.4822
+  - 0.4465
+  std:
+  - 0.247
+  - 0.243
+  - 0.261
+  num_classes: 10
+attack:
+  attack_name: badnets
+  poison_rate: 0.1
+  target_label: 0
+  trigger_size: 3
+  trigger_value: 255.0
+seed: 42
+checkpoints_dir: ./checkpoints
+epochs: 5
+batch_size: 128
+lr: 0.01
+momentum: 0.9
+weight_decay: 0.0005
+scheduler_milestones:
+- 100
+- 200
+- 300
+- 400
+scheduler_lambda: 0.1
+model_name: preactresnet18

@@ -1,0 +1,6 @@
+attack_name: badnets
+attack_mode: all2one
+poison_rate: 0.1
+target_label: 0
+trigger_size: 3
+trigger_value: 255.0

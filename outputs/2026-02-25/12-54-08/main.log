@@ -1,0 +1,32 @@
+[2026-02-25 13:37:08,932][accelerate.accelerator][INFO] - Saving current state to ./checkpoints\cifar10\best_model
+[2026-02-25 13:37:09,031][accelerate.checkpointing][INFO] - Model weights saved in checkpoints\cifar10\best_model\model.safetensors
+[2026-02-25 13:37:09,133][accelerate.checkpointing][INFO] - Optimizer state saved in checkpoints\cifar10\best_model\optimizer.bin
+[2026-02-25 13:37:09,136][accelerate.checkpointing][INFO] - Scheduler state saved in checkpoints\cifar10\best_model\scheduler.bin
+[2026-02-25 13:37:09,137][accelerate.checkpointing][INFO] - Sampler state for dataloader 0 saved in checkpoints\cifar10\best_model\sampler.bin
+[2026-02-25 13:37:09,137][accelerate.checkpointing][INFO] - Sampler state for dataloader 1 saved in checkpoints\cifar10\best_model\sampler_1.bin
+[2026-02-25 13:37:09,138][accelerate.checkpointing][INFO] - Sampler state for dataloader 2 saved in checkpoints\cifar10\best_model\sampler_2.bin
+[2026-02-25 13:37:09,141][accelerate.checkpointing][INFO] - Random states saved in checkpoints\cifar10\best_model\random_states_0.pkl
+[2026-02-25 14:16:38,033][accelerate.accelerator][INFO] - Saving current state to ./checkpoints\cifar10\best_model
+[2026-02-25 14:16:38,134][accelerate.checkpointing][INFO] - Model weights saved in checkpoints\cifar10\best_model\model.safetensors
+[2026-02-25 14:16:38,226][accelerate.checkpointing][INFO] - Optimizer state saved in checkpoints\cifar10\best_model\optimizer.bin
+[2026-02-25 14:16:38,228][accelerate.checkpointing][INFO] - Scheduler state saved in checkpoints\cifar10\best_model\scheduler.bin
+[2026-02-25 14:16:38,228][accelerate.checkpointing][INFO] - Sampler state for dataloader 0 saved in checkpoints\cifar10\best_model\sampler.bin
+[2026-02-25 14:16:38,229][accelerate.checkpointing][INFO] - Sampler state for dataloader 1 saved in checkpoints\cifar10\best_model\sampler_1.bin
+[2026-02-25 14:16:38,229][accelerate.checkpointing][INFO] - Sampler state for dataloader 2 saved in checkpoints\cifar10\best_model\sampler_2.bin
+[2026-02-25 14:16:38,231][accelerate.checkpointing][INFO] - Random states saved in checkpoints\cifar10\best_model\random_states_0.pkl
+[2026-02-25 14:54:02,322][accelerate.accelerator][INFO] - Saving current state to ./checkpoints\cifar10\best_model
+[2026-02-25 14:54:02,416][accelerate.checkpointing][INFO] - Model weights saved in checkpoints\cifar10\best_model\model.safetensors
+[2026-02-25 14:54:02,507][accelerate.checkpointing][INFO] - Optimizer state saved in checkpoints\cifar10\best_model\optimizer.bin
+[2026-02-25 14:54:02,509][accelerate.checkpointing][INFO] - Scheduler state saved in checkpoints\cifar10\best_model\scheduler.bin
+[2026-02-25 14:54:02,509][accelerate.checkpointing][INFO] - Sampler state for dataloader 0 saved in checkpoints\cifar10\best_model\sampler.bin
+[2026-02-25 14:54:02,509][accelerate.checkpointing][INFO] - Sampler state for dataloader 1 saved in checkpoints\cifar10\best_model\sampler_1.bin
+[2026-02-25 14:54:02,510][accelerate.checkpointing][INFO] - Sampler state for dataloader 2 saved in checkpoints\cifar10\best_model\sampler_2.bin
+[2026-02-25 14:54:02,513][accelerate.checkpointing][INFO] - Random states saved in checkpoints\cifar10\best_model\random_states_0.pkl
+[2026-02-25 16:10:17,322][accelerate.accelerator][INFO] - Saving current state to ./checkpoints\cifar10\best_model
+[2026-02-25 16:10:17,435][accelerate.checkpointing][INFO] - Model weights saved in checkpoints\cifar10\best_model\model.safetensors
+[2026-02-25 16:10:17,540][accelerate.checkpointing][INFO] - Optimizer state saved in checkpoints\cifar10\best_model\optimizer.bin
+[2026-02-25 16:10:17,541][accelerate.checkpointing][INFO] - Scheduler state saved in checkpoints\cifar10\best_model\scheduler.bin
+[2026-02-25 16:10:17,542][accelerate.checkpointing][INFO] - Sampler state for dataloader 0 saved in checkpoints\cifar10\best_model\sampler.bin
+[2026-02-25 16:10:17,542][accelerate.checkpointing][INFO] - Sampler state for dataloader 1 saved in checkpoints\cifar10\best_model\sampler_1.bin
+[2026-02-25 16:10:17,542][accelerate.checkpointing][INFO] - Sampler state for dataloader 2 saved in checkpoints\cifar10\best_model\sampler_2.bin
+[2026-02-25 16:10:17,545][accelerate.checkpointing][INFO] - Random states saved in checkpoints\cifar10\best_model\random_states_0.pkl
